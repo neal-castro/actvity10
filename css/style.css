@@ -146,7 +146,7 @@ p {
 
 /* testimonial section */
 #testimonials {
-  background: url("/image/background-testimonials.jpg") no-repeat center
+  background: url("../image/background-testimonials.jpg") no-repeat center
     center/cover;
   height: auto;
   min-height: 600px;
