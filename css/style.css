@@ -159,7 +159,8 @@ p {
 .row {
   background: rgba(39, 62, 84, 0.4);
   overflow: hidden;
-  height: 600px;
+  height: auto;
+  min-height: 600px;
   z-index: 2;
 }
 /* changing font color of the heading and adjusting some spaces from the top edge */
